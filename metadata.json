@@ -1,0 +1,8 @@
+{
+  "name": "Royal VIP Voice Lounge - Kesintisiz Ses Odası",
+  "description": "Lüks casino ve oyun temalı, WebRTC DSP filtreli, 50 kişiye kadar kapasiteli, kompakt ızgaralı profesyonel ses odası (Voice Room).",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
